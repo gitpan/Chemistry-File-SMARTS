@@ -52,7 +52,10 @@ t/pats/ringcount.pat
 t/pats/single_charge.pat
 t/pats/single_or_arom.pat
 t/pats/stack.pat
+t/pats/sym_ar.pat
+t/pats/sym_br.pat
 t/pats/total_h.pat
 t/pats/valence.pat
 t/pats/wildcard.pat
 t/pod.t
+META.yml                                 Module meta-data (added by MakeMaker)
